@@ -1,0 +1,6 @@
+{
+  "siteId": "d489f056-5a2f-4a77-acc6-1d0f7637680a",
+  "domain": "github-action-bun",
+  "buildCommand": "npm run build",
+  "buildDir": "dist"
+}
